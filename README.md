@@ -12,3 +12,5 @@
 
 <img src="https://github.com/HarshyamSinhGohil/Bhagvad_Gita_App-Departure-/assets/162327106/5d9e7a4d-84e0-417d-999e-268b49f47efa" height="300"/>
 
+<img src="https://github.com/HarshyamSinhGohil/Bhagvad_Gita_App-Departure-/assets/162327106/be1e78fe-fa18-46b8-a7ba-6afbf9a8e2da" height="300"/>
+
